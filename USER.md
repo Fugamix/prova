@@ -10,6 +10,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Timezone:**
   Europe/Madrid
 - **Notes:**
+  Prefereix català, un to directe i atent. Valora claredat, eficàcia i iniciativa. Si hi ha un dubte important o risc elevat, vol que se li digui abans d'actuar.
 
 ## Context
 
