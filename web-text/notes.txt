@@ -1,0 +1,2 @@
+Això és text pla servit per Nginx.
+Pots usar aquesta plantilla per publicar HTML i TXT molt simples.
